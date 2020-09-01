@@ -1,0 +1,78 @@
+body{
+    background: white;
+}
+
+nav{
+    display: flex;
+    background;
+    color: black;
+    height: 50px;
+    font-family: 'Segoe UI';
+    font-size: 13px;
+}
+
+.nav-left{
+    display: flex;
+    background: white;
+    color: black;
+    height: 65px;
+    padding: 5px 0px 0px 60px;
+    width: 10%;
+    
+    
+}
+
+
+.nav-middle{
+    display: flex;
+    background: white;
+    padding: 0px 0px 0px 0px;
+    width: 60%
+    
+}
+
+
+
+.nav-right{
+    display: flex;
+    background: white;
+    width: 20%;
+}
+
+ul{
+    display: flex;
+    color: black;
+    width: 45%;
+    list-style-type: none;
+}
+
+
+
+.hero-right{
+    display: float;
+    padding: 10px 0px 0px 60px;
+}
+
+.shortcuts{
+    font-color: green;
+    text-align: center;
+}
+
+.buy-button{
+    display: float;
+    background: black;
+    color: white;
+    border: transparent;
+    font-size: 15px;
+    padding: 8px 20px 8px 20px
+}
+
+li{
+    color: #000;
+    display: float;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0px 15px 0px 15px;
+}
+
